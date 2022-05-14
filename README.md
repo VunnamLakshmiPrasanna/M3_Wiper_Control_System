@@ -5,3 +5,6 @@
 ![Code Quality Score](https://api.codiga.io/project/33450/score/svg)
 
 ![Code Grade](https://api.codiga.io/project/33450/status/svg)
+
+<img width="756" alt="image" src="https://user-images.githubusercontent.com/101539400/168415176-7d2fbb4c-fa4d-405e-9378-c2977c04a8cc.png">
+
